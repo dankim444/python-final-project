@@ -1,0 +1,11 @@
+streamlit
+PyPDF2
+python-dotenv
+langchain
+pytube
+openai-whisper
+beautifulsoup4
+requests
+langchain_openai
+langchain_community
+faiss-cpu
